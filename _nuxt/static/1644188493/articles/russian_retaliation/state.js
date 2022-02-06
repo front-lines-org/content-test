@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1644188493",layout:"article-layout",error:a,serverRendered:true,routePath:"\u002Farticles\u002Frussian_retaliation",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"7a109d74"}}}}(null));
