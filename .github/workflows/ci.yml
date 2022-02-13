@@ -17,16 +17,18 @@ jobs:
 
     steps:
 
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-        with: 
-          path: 'content'
+
       # get nuxt code
-      - name: Check out my other repo
+      - name: Check out the site code
         uses: actions/checkout@v2
         with:
           repository: front-lines-org/main-site-nuxt
           ref: 'v1.2.0'
+          
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with: 
+          path: 'content'
 
       - name: Setup node env 🏗
         uses: actions/setup-node@v2.1.5
