@@ -1,0 +1,31 @@
+{
+  "name": "content-test",
+  "version": "0.0.1",
+  "description": "## WARN: none of the articles in this repo adhere to any quality standard, it's purely for testing purposes. This is the repo that holds all content for the test environment site. Last update today.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-lines-org/content-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/front-lines-org/content-test/issues"
+  },
+  "homepage": "https://github.com/front-lines-org/content-test#readme",
+  "devDependencies": {
+    "textlint": "^12.1.0",
+    "textlint-rule-stop-words": "^2.0.9"
+  },
+  "dependencies": {
+    "textlint-rule-ginger": "^2.2.1",
+    "textlint-rule-rousseau": "^1.4.6",
+    "textlint-rule-write-good": "^2.0.0"
+  }
+}

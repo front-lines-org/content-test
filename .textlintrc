@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "rousseau": {
+      "showLevels": [
+        "suggestion",
+        "warning",
+        "error"
+      ]
+    },
+    "write-good": {},
+    "ginger": {}
+  }
+}
