@@ -2,7 +2,7 @@
 title: Ukrainian troops on Crimean border on high alert after rising tension with Russia
 shortDescription: Ukrainian troops on the Crimean border were put on full combat alert on Thursday, said Ukrainian officials, after tensions rose between Russia and Ukraine over the preceding several days.
 description: Ukrainian troops on the Crimean border were put on full combat alert on Thursday, said Ukrainian officials, after tensions rose between Russia and Ukraine over the preceding several days.
-img: 'ukraine3.jpg'
+img: 'ukraine9.jpg'
 author: 'Wikinews'
 authorLink: 'https://en.wikinews.org/wiki/Russia_launches_full-scale_invasion_against_Ukraine'
 publishDate: 14-08-2016
