@@ -16,3 +16,4 @@ The secretary of Defense has made this decision in caution of a Russian invasion
 'American citizens should not expect that the U.S. military is going to rescue them in Ukraine at the last minute. That's not going to be happening in this scenario. And that's why it is past time for them to leave Ukraine'
 
 At the same time, the UK has ordered all troops to leave this weekend.
+wah
